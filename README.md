@@ -4,5 +4,5 @@ Brute force algorithm for visiting multiple target nodes while starting and endi
 </br>Red: Target node
 </br>Blue: visited node
 
-<img width="706" alt="image" src="https://github.com/user-attachments/assets/b099dad0-5cf4-48f3-b02d-261b12eac50d">
-<img width="714" alt="image" src="https://github.com/user-attachments/assets/bf3ab779-f2b6-44f1-8f94-c1afed68c3d8">
+<img width="706" alt="image" src="Image1.png">
+<img width="714" alt="image" src="Image2.png">
