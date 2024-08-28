@@ -1,5 +1,6 @@
 # Design and analysis of a shortest path algorithm
 Brute force algorithm for visiting multiple target nodes while starting and ending at the same node.</br>
+Run the algorithm using pynode.<br>
 </br>Blue: Home node
 </br>Red: Target nodes
 </br>Black: visited nodes
